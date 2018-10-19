@@ -1,0 +1,7 @@
+'''Exercise 001: How to ingest a csv file in Python using the csv module'''
+
+1) Ingest csv file line by line storing all information in a dictionary.  Headers
+   will be used as keys
+
+2) Results will be printed to screen at the end.  The sample file will be small to
+   keep the print readable
